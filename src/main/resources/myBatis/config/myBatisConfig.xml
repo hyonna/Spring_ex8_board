@@ -8,5 +8,6 @@
   		<typeAlias type="java.lang.Integer" alias="Integer"/>
   		<typeAlias type="com.iu.board.qna.QnaDTO" alias="QnaDTO"/>
   		<typeAlias type="com.iu.util.PageMaker" alias="PageMaker"/>
+  		<typeAlias type="com.iu.file.FileDTO" alias="FileDTO"/>
   	</typeAliases>
   </configuration>

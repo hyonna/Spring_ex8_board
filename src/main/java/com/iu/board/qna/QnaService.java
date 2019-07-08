@@ -46,6 +46,7 @@ public class QnaService implements BoardService{
 
 	@Override
 	public int setUpdate(BoardDTO boardDTO) throws Exception {
+		
 		return 0;
 	}
 
